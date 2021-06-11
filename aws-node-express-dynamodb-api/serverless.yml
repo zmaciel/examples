@@ -1,4 +1,4 @@
-service: aws-node-express-dynamodb-api
+service: user-id-dynamo-lambda
 
 frameworkVersion: '2'
 
